@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <img style="border-radius: 50%;" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
-- 🔭 I’m currently working on ✨frontend & Backend Projects✨<br><br>- 🌱 I’m currently learning ✨back-end development✨<br><br>- 👨‍💻 All of my projects ✨https://pardeepdeveloper.netlify.app✨ <br><br>- 💬 Ask me about ✨front-end development + IIOT✨<br><br>- 📫 How to reach me ✨pardeepnain1111@gmail.com✨<br><br>- ⚡ Fun fact ✨playing some games✨
+- 🔭 I’m currently working on ✨frontend & Backend Projects✨<br><br>- 🌱 I’m currently learning ✨back-end development✨<br><br>- 👨‍💻 All of my projects ✨loading...✨ <br><br>- 💬 Ask me about ✨front-end development + IIOT✨<br><br>- 📫 How to reach me ✨pardeepnain1111@gmail.com✨<br><br>- ⚡ Fun fact ✨playing some games✨
 
 
 ## 🌐 Socials:
